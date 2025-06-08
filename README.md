@@ -1,2 +1,4 @@
-# programming-notes
-Documenting what I learn while programming and while learning different languages.
+# My Programming Documentation Journey
+
+I will document what I learn about syntax, 
+In this 
