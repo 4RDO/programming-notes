@@ -13,7 +13,7 @@
 
 ## Code Example
 ```cpp
-struct car {    // Declares struct type called car
+struct Car {    // Declares struct type called car
     string title;   // Member with string data type
     int year;   // Member with int data type
 } tesla;    // Tesla object declared
@@ -21,4 +21,6 @@ struct car {    // Declares struct type called car
 int main() {
     tesla.title = "Model Y";    // accessing member and assigning variable
     tesla.year = 2024;
+
+    Car tesla; // Another way to create object instead of putting it at the end
 }
